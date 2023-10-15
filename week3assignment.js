@@ -22,3 +22,8 @@ console.log(TestScore);
 
 //qn 5
 
+//qn 6
+
+for(let count=1;count<=20;count++){
+    console.log(count);
+}
