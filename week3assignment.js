@@ -17,4 +17,8 @@ let LastName="willy";
 console.log(LastName);
 let GuruCodingCourse="JavaScript";
 console.log(GuruCodingCourse);
+let TestScore="100%";
+console.log(TestScore);
+
+//qn 5
 
