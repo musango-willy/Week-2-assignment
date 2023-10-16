@@ -21,7 +21,43 @@ let TestScore="100%";
 console.log(TestScore);
 
 //qn 5
-const averageJavaScriptscore="86";
+const mayJavaScriptTestScore="86";
+
+
+if(mayJavaScriptTestScore<30 ){
+
+    console.log("May failed the test,May is a F9 student");
+
+}else if(mayJavaScriptTestScore>=31 && mayJavaScriptTestScore<=40){
+
+    console.log("May is a E student");
+
+}else if(mayJavaScriptTestScore>=41 && mayJavaScriptTestScore<=49){
+
+    console.log("May is a D student");
+
+}else if(mayJavaScriptTestScore>=50 && mayJavaScriptTestScore<=59){
+
+    console.log("May is a C student");
+
+}else if(mayJavaScriptTestScore<=60 && mayJavaScriptTestScore<=69){
+
+    console.log("May is a B student");
+
+}else if(mayJavaScriptTestScore>=70){
+
+    console.log("May is a A student");
+
+}else if(mayJavaScriptTestScore>=101){
+
+    console.log("testScore is out of range");
+
+}else {//anything that is negative
+
+    console.log("testScore is no score");
+
+}
+
 
 //qn 6
 
