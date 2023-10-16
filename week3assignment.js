@@ -1,26 +1,42 @@
+//question 1
+
+const number = "45";
+console.log(number);
 
 
 
 
-
-//qn3
-
-
-const myVaue = 86;
-console.log(myVaue);
+//question 3
 
 
-//qn 4
+const myValue = 86;
+
+console.log(myValue);
+
+
+//question 4
+
+
 let FirstName="musango";
+
 console.log(FirstName);
+
 let LastName="willy";
+
 console.log(LastName);
+
 let GuruCodingCourse="JavaScript";
+
 console.log(GuruCodingCourse);
+
 let TestScore="100%";
+
 console.log(TestScore);
 
-//qn 5
+
+//question 5
+
+
 const mayJavaScriptTestScore="86";
 
 
@@ -59,11 +75,14 @@ if(mayJavaScriptTestScore<30 ){
 }
 
 
-//qn 6
+//question 6
 
 for(let count=1;count<=20;count++){
+
     console.log(count);
 }
+
+
  //for loop iterates to check spcefied conditions and then repeatedly executes a block of code as long as those conditions are met.
  //declared a variable named "count" and initilized it 
  // count<=20 it is the conditions that the for loop must evaluate and met
