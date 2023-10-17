@@ -21,10 +21,6 @@ let y="I am"+23+4 + " " +"years old";
 console.log(y);
 
 
-
-
-
-
 //question 3
 
 
