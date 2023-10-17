@@ -1,7 +1,26 @@
 //question 1
 
 const number = "45";
+
 console.log(number);
+
+//question 2
+
+//const printSum = "20" + 40. //let the result print 60 //hint: 60.
+
+let x=20;
+x+=40;
+console.log(x);
+
+
+//const sentence = "I am " + 23 + 4 + " " +"years old" //hint: “I am 27 years old”
+
+let y="I am"+23+4 + " " +"years old";
+
+
+console.log(y);
+
+
 
 
 
