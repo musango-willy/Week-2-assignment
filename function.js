@@ -17,7 +17,7 @@ calculateArea(18,70)
 
 // question 3 :closures and private counters
 
-function function1(){
+function function1(){// global function is accessible to both within and outside the function
     var x=10;
     console.log(x);
 }
@@ -28,3 +28,4 @@ function function1(){
     console.log(x)
 }
 function1(10)
+// localvar is only accessible within the function
